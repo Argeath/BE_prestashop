@@ -1,0 +1,31 @@
+version: '2'
+
+services: 
+  prestashop:
+    build: ./prestashop
+    ports:
+      - 80:80
+    links:
+      - psdb:psdb
+    depends_on:
+      - psdb
+    volumes:
+      - ./prestashop/src:/var/www/html
+
+  psdb:
+    build: ./mysql
+    environment:
+      - MYSQL_ROOT_PASSWORD=test1234
+      - MYSQL_DATABASE=prestashop
+
+  phpmyadmin:
+    image: phpmyadmin/phpmyadmin
+    links:
+      - psdb
+    ports: 
+      - 81:80 
+    environment:
+      - PMA_HOST=psdb
+      - PMA_USER=root
+      - PMA_PASSWORD=test1234
+
