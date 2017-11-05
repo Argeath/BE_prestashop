@@ -35,7 +35,7 @@
 				{else}
 					{include file="$branche_tpl_path" node=$child}
 				{/if}
-			
+
 				{if ($smarty.foreach.blockCategTree.iteration mod $numberColumn) == 0 AND !$smarty.foreach.blockCategTree.last}
 			</ul>
 		</div>

@@ -1,4 +1,4 @@
-<?php /* Smarty version Smarty-3.1.19, created on 2017-11-03 22:46:18
+<?php /* Smarty version Smarty-3.1.19, created on 2017-11-05 13:47:49
          compiled from "/var/www/html/admin0671bdkcq/themes/default/template/helpers/modules_list/modal.tpl" */ ?>
 <?php /*%%SmartyHeaderCode:204170687359fce3aac329c5-12147320%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
@@ -7,7 +7,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
     '7bf73c1b07c3722fab3dfcfbb31575b14e0a6862' => 
     array (
       0 => '/var/www/html/admin0671bdkcq/themes/default/template/helpers/modules_list/modal.tpl',
-      1 => 1504515462,
+      1 => 1509885957,
       2 => 'file',
     ),
   ),
@@ -15,9 +15,9 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   'function' => 
   array (
   ),
-  'has_nocache_code' => false,
   'version' => 'Smarty-3.1.19',
   'unifunc' => 'content_59fce3aac346b0_65396068',
+  'has_nocache_code' => false,
 ),false); /*/%%SmartyHeaderCode%%*/?>
 <?php if ($_valid && !is_callable('content_59fce3aac346b0_65396068')) {function content_59fce3aac346b0_65396068($_smarty_tpl) {?><div class="modal fade" id="modules_list_container">
 	<div class="modal-dialog">

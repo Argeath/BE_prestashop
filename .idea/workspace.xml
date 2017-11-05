@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4a14ea6c-4660-4a89-86a9-d3fd8aaeec26" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/prestashop/src/cache/smarty/compile/05/02/c0/0502c0b520cd7d49f0ebdbf6eba3950da85d614a.file.list_action_enable.tpl.php" afterPath="$PROJECT_DIR$/prestashop/src/cache/smarty/compile/05/02/c0/0502c0b520cd7d49f0ebdbf6eba3950da85d614a.file.list_action_enable.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/prestashop/src/cache/smarty/compile/09/b0/f8/09b0f86e2ed1be2617ff9e3ea20a13c85cd139a4.file.list_action_delete.tpl.php" afterPath="$PROJECT_DIR$/prestashop/src/cache/smarty/compile/09/b0/f8/09b0f86e2ed1be2617ff9e3ea20a13c85cd139a4.file.list_action_delete.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/prestashop/src/cache/smarty/compile/0a/88/04/0a8804cc4e78b7c8606f2faf64227ea1b146aebc.file.tree_toolbar.tpl.php" afterPath="$PROJECT_DIR$/prestashop/src/cache/smarty/compile/0a/88/04/0a8804cc4e78b7c8606f2faf64227ea1b146aebc.file.tree_toolbar.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/prestashop/src/cache/smarty/compile/0b/ff/35/0bff35deae65a6f98d390de32314f1ecd02dce3d.file.view.tpl.php" afterPath="$PROJECT_DIR$/prestashop/src/cache/smarty/compile/0b/ff/35/0bff35deae65a6f98d390de32314f1ecd02dce3d.file.view.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/prestashop/src/cache/smarty/compile/10/ea/0d/10ea0de2f25f9ca1e03cdd18b1f1ed002cad9b23.file.tree_node_item_radio.tpl.php" afterPath="$PROJECT_DIR$/prestashop/src/cache/smarty/compile/10/ea/0d/10ea0de2f25f9ca1e03cdd18b1f1ed002cad9b23.file.tree_node_item_radio.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/prestashop/src/cache/smarty/compile/20/4d/04/204d0418e4f037f62acbb3a0ff9f50312bf7c30d.file.row.tpl.php" afterPath="$PROJECT_DIR$/prestashop/src/cache/smarty/compile/20/4d/04/204d0418e4f037f62acbb3a0ff9f50312bf7c30d.file.row.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/prestashop/src/cache/smarty/compile/29/05/05/29050530c35a201610f66d8d7ba8b0c4b11bce99.file.list_header.tpl.php" afterPath="$PROJECT_DIR$/prestashop/src/cache/smarty/compile/29/05/05/29050530c35a201610f66d8d7ba8b0c4b11bce99.file.list_header.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/prestashop/src/cache/smarty/compile/40/a7/67/40a767377adc3931c80391c0678b743058f7f821.file.notification_bt.tpl.php" afterPath="$PROJECT_DIR$/prestashop/src/cache/smarty/compile/40/a7/67/40a767377adc3931c80391c0678b743058f7f821.file.notification_bt.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/prestashop/src/cache/smarty/compile/46/1d/a3/461da315ab70aa680fbab48cfb19f05d967a5d64.file.footer.tpl.php" afterPath="$PROJECT_DIR$/prestashop/src/cache/smarty/compile/46/1d/a3/461da315ab70aa680fbab48cfb19f05d967a5d64.file.footer.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/prestashop/src/cache/smarty/compile/47/76/9e/47769e0a84006cd8daecd85a3349b818fae413e7.file.list_header.tpl.php" afterPath="$PROJECT_DIR$/prestashop/src/cache/smarty/compile/47/76/9e/47769e0a84006cd8daecd85a3349b818fae413e7.file.list_header.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/prestashop/src/cache/smarty/compile/4d/01/55/4d0155d037165e0972ee76312ba0ca309ffd3ca3.file.list.tpl.php" afterPath="$PROJECT_DIR$/prestashop/src/cache/smarty/compile/4d/01/55/4d0155d037165e0972ee76312ba0ca309ffd3ca3.file.list.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/prestashop/src/cache/smarty/compile/56/ed/76/56ed762429f248e14600b579ed31ec9b7e2f4b47.file.kpi.tpl.php" afterPath="$PROJECT_DIR$/prestashop/src/cache/smarty/compile/56/ed/76/56ed762429f248e14600b579ed31ec9b7e2f4b47.file.kpi.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/prestashop/src/cache/smarty/compile/5b/a1/23/5ba123d56463eca6b5c182100f2fc14a312f90ee.file.config.tpl.php" afterPath="$PROJECT_DIR$/prestashop/src/cache/smarty/compile/5b/a1/23/5ba123d56463eca6b5c182100f2fc14a312f90ee.file.config.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/prestashop/src/cache/smarty/compile/65/c5/8e/65c58ed5c200f9bccc9e16e2e4739688dfbcc5d7.file.list_action_preview.tpl.php" afterPath="$PROJECT_DIR$/prestashop/src/cache/smarty/compile/65/c5/8e/65c58ed5c200f9bccc9e16e2e4739688dfbcc5d7.file.list_action_preview.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/prestashop/src/cache/smarty/compile/69/6b/8d/696b8d422445a63530a7459881a9e6fa0de11e0c.file.list_action_duplicate.tpl.php" afterPath="$PROJECT_DIR$/prestashop/src/cache/smarty/compile/69/6b/8d/696b8d422445a63530a7459881a9e6fa0de11e0c.file.list_action_duplicate.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/prestashop/src/cache/smarty/compile/72/fb/54/72fb54077c2292397ee9d55b7ddcdd1bf74424c3.file.layout.tpl.php" afterPath="$PROJECT_DIR$/prestashop/src/cache/smarty/compile/72/fb/54/72fb54077c2292397ee9d55b7ddcdd1bf74424c3.file.layout.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/prestashop/src/cache/smarty/compile/73/b7/b8/73b7b8ed2e446aa43402f04226be7d3f333428ad.file.dashboard_zone_two.tpl.php" afterPath="$PROJECT_DIR$/prestashop/src/cache/smarty/compile/73/b7/b8/73b7b8ed2e446aa43402f04226be7d3f333428ad.file.dashboard_zone_two.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/prestashop/src/cache/smarty/compile/7b/f7/3c/7bf73c1b07c3722fab3dfcfbb31575b14e0a6862.file.modal.tpl.php" afterPath="$PROJECT_DIR$/prestashop/src/cache/smarty/compile/7b/f7/3c/7bf73c1b07c3722fab3dfcfbb31575b14e0a6862.file.modal.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/prestashop/src/cache/smarty/compile/81/91/ae/8191ae76ed1d3035b28d97adea847905d8aecbb0.file.options.tpl.php" afterPath="$PROJECT_DIR$/prestashop/src/cache/smarty/compile/81/91/ae/8191ae76ed1d3035b28d97adea847905d8aecbb0.file.options.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/prestashop/src/cache/smarty/compile/82/7f/a4/827fa4de07a81a9a50f92c008adcd7de6c59d277.file.page_header_toolbar.tpl.php" afterPath="$PROJECT_DIR$/prestashop/src/cache/smarty/compile/82/7f/a4/827fa4de07a81a9a50f92c008adcd7de6c59d277.file.page_header_toolbar.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/prestashop/src/cache/smarty/compile/86/39/91/863991daa7daf6df70b0ab7b7a15bf5ab1b96a22.file.form.tpl.php" afterPath="$PROJECT_DIR$/prestashop/src/cache/smarty/compile/86/39/91/863991daa7daf6df70b0ab7b7a15bf5ab1b96a22.file.form.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/prestashop/src/cache/smarty/compile/87/ed/dd/87edddbbff0a1f7f853815f0732bda4bc5783332.file.dashboard_zone_one.tpl.php" afterPath="$PROJECT_DIR$/prestashop/src/cache/smarty/compile/87/ed/dd/87edddbbff0a1f7f853815f0732bda4bc5783332.file.dashboard_zone_one.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/prestashop/src/cache/smarty/compile/97/69/e4/9769e4890ad8c5591e9cb09f34d868713feb7373.file.tree_categories.tpl.php" afterPath="$PROJECT_DIR$/prestashop/src/cache/smarty/compile/97/69/e4/9769e4890ad8c5591e9cb09f34d868713feb7373.file.tree_categories.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/prestashop/src/cache/smarty/compile/9f/89/a1/9f89a17cb07e99e2d58b83ed6f38644d7a7a7b47.file.tree_toolbar_link.tpl.php" afterPath="$PROJECT_DIR$/prestashop/src/cache/smarty/compile/9f/89/a1/9f89a17cb07e99e2d58b83ed6f38644d7a7a7b47.file.tree_toolbar_link.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/prestashop/src/cache/smarty/compile/a3/c1/e5/a3c1e58dc420254b7357ee5bb6b952cd3be54f1d.file.list_content.tpl.php" afterPath="$PROJECT_DIR$/prestashop/src/cache/smarty/compile/a3/c1/e5/a3c1e58dc420254b7357ee5bb6b952cd3be54f1d.file.list_content.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/prestashop/src/cache/smarty/compile/af/9c/58/af9c588eefc1ebf463909a7b2676b84fdbfe306d.file.search_form.tpl.php" afterPath="$PROJECT_DIR$/prestashop/src/cache/smarty/compile/af/9c/58/af9c588eefc1ebf463909a7b2676b84fdbfe306d.file.search_form.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/prestashop/src/cache/smarty/compile/b8/78/ba/b878ba3110248b359a925e450ee7b4a5c7af6b0e.file.modal.tpl.php" afterPath="$PROJECT_DIR$/prestashop/src/cache/smarty/compile/b8/78/ba/b878ba3110248b359a925e450ee7b4a5c7af6b0e.file.modal.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/prestashop/src/cache/smarty/compile/c0/ee/d3/c0eed3b9df923c327f1706674c280218aa7eaf99.file.dashboard_zone_two.tpl.php" afterPath="$PROJECT_DIR$/prestashop/src/cache/smarty/compile/c0/ee/d3/c0eed3b9df923c327f1706674c280218aa7eaf99.file.dashboard_zone_two.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/prestashop/src/cache/smarty/compile/cc/5d/39/cc5d394ea6f86dcebcedccf89cc293b2ba6ce022.file.tree_header.tpl.php" afterPath="$PROJECT_DIR$/prestashop/src/cache/smarty/compile/cc/5d/39/cc5d394ea6f86dcebcedccf89cc293b2ba6ce022.file.tree_header.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/prestashop/src/cache/smarty/compile/d3/5e/c5/d35ec599d6caf2d9a081abb511587b140342bc6f.file.dashboard_zone_two.tpl.php" afterPath="$PROJECT_DIR$/prestashop/src/cache/smarty/compile/d3/5e/c5/d35ec599d6caf2d9a081abb511587b140342bc6f.file.dashboard_zone_two.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/prestashop/src/cache/smarty/compile/e1/22/93/e12293847b536f43499e22cae4cd3c1c7c9acb56.file.tree_node_folder_radio.tpl.php" afterPath="$PROJECT_DIR$/prestashop/src/cache/smarty/compile/e1/22/93/e12293847b536f43499e22cae4cd3c1c7c9acb56.file.tree_node_folder_radio.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/prestashop/src/cache/smarty/compile/e3/fc/cf/e3fccfb81f136c54d049bb22859d22479c0f25cc.file.header.tpl.php" afterPath="$PROJECT_DIR$/prestashop/src/cache/smarty/compile/e3/fc/cf/e3fccfb81f136c54d049bb22859d22479c0f25cc.file.header.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/prestashop/src/cache/smarty/compile/e8/5f/7f/e85f7ffbc4caac378c5dc0d008a413a249daa2d6.file.login_addons.tpl.php" afterPath="$PROJECT_DIR$/prestashop/src/cache/smarty/compile/e8/5f/7f/e85f7ffbc4caac378c5dc0d008a413a249daa2d6.file.login_addons.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/prestashop/src/cache/smarty/compile/e9/70/51/e97051ab377c17844bdab8b43448722159d90b0b.file.content.tpl.php" afterPath="$PROJECT_DIR$/prestashop/src/cache/smarty/compile/e9/70/51/e97051ab377c17844bdab8b43448722159d90b0b.file.content.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/prestashop/src/cache/smarty/compile/eb/3b/b0/eb3bb019590babd7e3a11e5de50974e2f335a219.file.nav.tpl.php" afterPath="$PROJECT_DIR$/prestashop/src/cache/smarty/compile/eb/3b/b0/eb3bb019590babd7e3a11e5de50974e2f335a219.file.nav.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/prestashop/src/cache/smarty/compile/ee/78/e2/ee78e2984db4e0cc7e8334b50f3a07023042ebae.file.javascript.tpl.php" afterPath="$PROJECT_DIR$/prestashop/src/cache/smarty/compile/ee/78/e2/ee78e2984db4e0cc7e8334b50f3a07023042ebae.file.javascript.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/prestashop/src/cache/smarty/compile/f0/16/e3/f016e325c9abeadf765eb1228a8126fe0cb05507.file.list_footer.tpl.php" afterPath="$PROJECT_DIR$/prestashop/src/cache/smarty/compile/f0/16/e3/f016e325c9abeadf765eb1228a8126fe0cb05507.file.list_footer.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/prestashop/src/cache/smarty/compile/f4/bc/6c/f4bc6cc0a72d05d98a7153131256290fdef0b2f1.file.calendar.tpl.php" afterPath="$PROJECT_DIR$/prestashop/src/cache/smarty/compile/f4/bc/6c/f4bc6cc0a72d05d98a7153131256290fdef0b2f1.file.calendar.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/prestashop/src/cache/smarty/compile/fd/ac/72/fdac727ad490a5a649ca196ebc303009c26bbff9.file.list_action_edit.tpl.php" afterPath="$PROJECT_DIR$/prestashop/src/cache/smarty/compile/fd/ac/72/fdac727ad490a5a649ca196ebc303009c26bbff9.file.list_action_edit.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/prestashop/src/themes/default-bootstrap/modules/blockcategories/blockcategories_footer.tpl" afterPath="$PROJECT_DIR$/prestashop/src/themes/default-bootstrap/modules/blockcategories/blockcategories_footer.tpl" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="footer.tpl" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/prestashop/src/themes/default-bootstrap/footer.tpl">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="17" column="71" lean-forward="false" selection-start-line="17" selection-start-column="71" selection-end-line="17" selection-end-column="71" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="blockcontactinfos.tpl" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/prestashop/src/themes/default-bootstrap/modules/blockcontactinfos/blockcontactinfos.tpl">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="346">
+              <caret line="27" column="41" lean-forward="false" selection-start-line="27" selection-start-column="41" selection-end-line="27" selection-end-column="41" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="blockcategories_footer.tpl" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/prestashop/src/themes/default-bootstrap/modules/blockcategories/blockcategories_footer.tpl">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="680">
+              <caret line="40" column="14" lean-forward="true" selection-start-line="29" selection-start-column="8" selection-end-line="40" selection-end-column="14" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>footer-block</find>
+      <find>category_footer</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/prestashop/src/themes/default-bootstrap/modules/blockcategories/blockcategories_footer.tpl" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="2193" />
+    <option name="width" value="1272" />
+    <option name="height" value="692" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="BE_prestashop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BE_prestashop" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BE_prestashop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BE_prestashop" type="462c0819:PsiDirectoryNode" />
+              <item name="mysql" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BE_prestashop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BE_prestashop" type="462c0819:PsiDirectoryNode" />
+              <item name="prestashop" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BE_prestashop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BE_prestashop" type="462c0819:PsiDirectoryNode" />
+              <item name="prestashop" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BE_prestashop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BE_prestashop" type="462c0819:PsiDirectoryNode" />
+              <item name="prestashop" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="admin0671bdkcq" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BE_prestashop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BE_prestashop" type="462c0819:PsiDirectoryNode" />
+              <item name="prestashop" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="admin0671bdkcq" type="462c0819:PsiDirectoryNode" />
+              <item name="themes" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BE_prestashop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BE_prestashop" type="462c0819:PsiDirectoryNode" />
+              <item name="prestashop" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="admin0671bdkcq" type="462c0819:PsiDirectoryNode" />
+              <item name="themes" type="462c0819:PsiDirectoryNode" />
+              <item name="default" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4a14ea6c-4660-4a89-86a9-d3fd8aaeec26" name="Default" comment="" />
+      <created>1509880297476</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1509880297476</updated>
+      <workItem from="1509880298761" duration="2169000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="2169000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1920" y="0" width="1920" height="1044" extended-state="6" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24986821" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/prestashop/src/admin0671bdkcq/footer.inc.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="1" lean-forward="true" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prestashop/src/themes/default-bootstrap/modules/blockcategories/blockcategories_footer.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="680">
+          <caret line="40" column="14" lean-forward="true" selection-start-line="29" selection-start-column="8" selection-end-line="40" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prestashop/src/themes/default-bootstrap/modules/blockcontactinfos/blockcontactinfos.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="346">
+          <caret line="27" column="41" lean-forward="false" selection-start-line="27" selection-start-column="41" selection-end-line="27" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prestashop/src/themes/default-bootstrap/footer.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="71" lean-forward="false" selection-start-line="17" selection-start-column="71" selection-end-line="17" selection-end-column="71" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
