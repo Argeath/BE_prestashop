@@ -11,11 +11,11 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   ),
   'nocache_hash' => '5448390459fce8400d4b08-14612879',
   'version' => 'Smarty-3.1.19',
-  'unifunc' => 'content_59ff18aeb598d7_03531194',
+  'unifunc' => 'content_59ff7a52d8fcb8_08627458',
   'has_nocache_code' => true,
   'cache_lifetime' => 31536000,
 ),true); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_59ff18aeb598d7_03531194')) {function content_59ff18aeb598d7_03531194($_smarty_tpl) {?>
+<?php if ($_valid && !is_callable('content_59ff7a52d8fcb8_08627458')) {function content_59ff7a52d8fcb8_08627458($_smarty_tpl) {?>
 	<!-- Block CMS module footer -->
 	<section class="footer-block col-xs-12 col-sm-2" id="block_various_links_footer">
 		<h4>Informacja</h4>
@@ -46,13 +46,13 @@ $_valid = $_smarty_tpl->decodeProperties(array (
 				</a>
 			</li>
 															<li class="item">
-						<a href="http://localhost/content/3-terms-and-conditions-of-use" title="Zasady używania">
-							Zasady używania
+						<a href="http://localhost/content/3-terms-and-conditions-of-use" title="Terms and conditions of use">
+							Terms and conditions of use
 						</a>
 					</li>
 																<li class="item">
-						<a href="http://localhost/content/4-about-us" title="O nas">
-							O nas
+						<a href="http://localhost/content/4-about-us" title="About us">
+							About us
 						</a>
 					</li>
 													<li>
