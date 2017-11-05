@@ -11,36 +11,26 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   ),
   'nocache_hash' => '132153022059fcecb6b0c868-08755083',
   'version' => 'Smarty-3.1.19',
-  'unifunc' => 'content_59ff7a5329bc61_82774515',
+  'unifunc' => 'content_59ff8bf50eb986_84264048',
   'has_nocache_code' => false,
   'cache_lifetime' => 31536000,
 ),true); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_59ff7a5329bc61_82774515')) {function content_59ff7a5329bc61_82774515($_smarty_tpl) {?><!-- Module HomeSlider -->
+<?php if ($_valid && !is_callable('content_59ff8bf50eb986_84264048')) {function content_59ff8bf50eb986_84264048($_smarty_tpl) {?><!-- Module HomeSlider -->
     		<div id="homepage-slider">
-						<ul id="homeslider" style="max-height:448px;">
+						<ul id="homeslider" style="max-height:700px;">
 															<li class="homeslider-container">
-							<a href="http://www.prestashop.com/?utm_source=back-office&amp;utm_medium=v16_homeslider&amp;utm_campaign=back-office-PL&amp;utm_content=download" title="sample-1">
-								<img src="http://localhost/modules/homeslider/images/sample-1.jpg" width="779" height="448" alt="sample-1" />
+							<a href="google.com" title="sample-3">
+								<img src="http://localhost/modules/homeslider/images/825998499f1436be68dbf83c0929ab7c1c8b9317_1.jpg" width="1918" height="700" alt="sample-3" />
 							</a>
-															<div class="homeslider-description"><h2>EXCEPTEUR<br />OCCAECAT</h2>
-				<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin tristique in tortor et dignissim. Quisque non tempor leo. Maecenas egestas sem elit</p>
-				<p><button class="btn btn-default" type="button">Shop now !</button></p></div>
+															<div class="homeslider-description"><h1>Karta Nvidia 1080</h1>
+<h2>Już dostępna!</h2></div>
 													</li>
 																				<li class="homeslider-container">
-							<a href="http://www.prestashop.com/?utm_source=back-office&amp;utm_medium=v16_homeslider&amp;utm_campaign=back-office-PL&amp;utm_content=download" title="sample-2">
-								<img src="http://localhost/modules/homeslider/images/sample-2.jpg" width="779" height="448" alt="sample-2" />
+							<a href="apple.com" title="Outlet laptopów apple">
+								<img src="http://localhost/modules/homeslider/images/ea317578637d12bb238ee081998550ac2021e648_2.jpg" width="1920" height="700" alt="Outlet laptop&oacute;w apple" />
 							</a>
-															<div class="homeslider-description"><h2>EXCEPTEUR<br />OCCAECAT</h2>
-				<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin tristique in tortor et dignissim. Quisque non tempor leo. Maecenas egestas sem elit</p>
-				<p><button class="btn btn-default" type="button">Shop now !</button></p></div>
-													</li>
-																				<li class="homeslider-container">
-							<a href="http://www.prestashop.com/?utm_source=back-office&amp;utm_medium=v16_homeslider&amp;utm_campaign=back-office-PL&amp;utm_content=download" title="sample-3">
-								<img src="http://localhost/modules/homeslider/images/sample-3.jpg" width="779" height="448" alt="sample-3" />
-							</a>
-															<div class="homeslider-description"><h2>EXCEPTEUR<br />OCCAECAT</h2>
-				<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin tristique in tortor et dignissim. Quisque non tempor leo. Maecenas egestas sem elit</p>
-				<p><button class="btn btn-default" type="button">Shop now !</button></p></div>
+															<div class="homeslider-description"><h1 style="padding-left:570px;">Outlet laptopów apple</h1>
+<h2 style="padding-left:570px;">Kup taniego macbooka!</h2></div>
 													</li>
 												</ul>
 		</div>
