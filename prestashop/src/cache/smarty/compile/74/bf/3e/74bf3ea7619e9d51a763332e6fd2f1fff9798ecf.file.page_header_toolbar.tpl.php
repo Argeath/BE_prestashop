@@ -1,28 +1,26 @@
-<?php /* Smarty version Smarty-3.1.19, created on 2017-11-05 22:30:57
+<?php /* Smarty version Smarty-3.1.19, created on 2017-11-06 11:18:30
          compiled from "/var/www/html/admin0671bdkcq/themes/default/template/controllers/modules/page_header_toolbar.tpl" */ ?>
-<?php /*%%SmartyHeaderCode:180927638559ff09de302ec1-05182621%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:17993015135a0036f63fdbd8-44533705%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
     '74bf3ea7619e9d51a763332e6fd2f1fff9798ecf' => 
     array (
       0 => '/var/www/html/admin0671bdkcq/themes/default/template/controllers/modules/page_header_toolbar.tpl',
-      1 => 1509916534,
+      1 => 1504515462,
       2 => 'file',
     ),
     '827fa4de07a81a9a50f92c008adcd7de6c59d277' => 
     array (
       0 => '/var/www/html/admin0671bdkcq/themes/default/template/page_header_toolbar.tpl',
-      1 => 1509916534,
+      1 => 1504515462,
       2 => 'file',
     ),
   ),
-  'nocache_hash' => '180927638559ff09de302ec1-05182621',
+  'nocache_hash' => '17993015135a0036f63fdbd8-44533705',
   'function' => 
   array (
   ),
-  'version' => 'Smarty-3.1.19',
-  'unifunc' => 'content_59ff09de3d1649_97095197',
   'variables' => 
   array (
     'title' => 0,
@@ -38,8 +36,10 @@ $_valid = $_smarty_tpl->decodeProperties(array (
     'tab_modules_list' => 0,
   ),
   'has_nocache_code' => false,
+  'version' => 'Smarty-3.1.19',
+  'unifunc' => 'content_5a0036f64fff76_83038888',
 ),false); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_59ff09de3d1649_97095197')) {function content_59ff09de3d1649_97095197($_smarty_tpl) {?>
+<?php if ($_valid && !is_callable('content_5a0036f64fff76_83038888')) {function content_5a0036f64fff76_83038888($_smarty_tpl) {?>
 
 
 <?php if (!isset($_smarty_tpl->tpl_vars['title']->value)&&isset($_smarty_tpl->tpl_vars['page_header_toolbar_title']->value)) {?>

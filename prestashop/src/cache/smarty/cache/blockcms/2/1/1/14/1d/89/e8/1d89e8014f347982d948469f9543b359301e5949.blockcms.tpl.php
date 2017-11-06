@@ -1,4 +1,4 @@
-<?php /*%%SmartyHeaderCode:5448390459fce8400d4b08-14612879%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:14364098325a002de3381919-45437394%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
@@ -9,13 +9,13 @@ $_valid = $_smarty_tpl->decodeProperties(array (
       2 => 'file',
     ),
   ),
-  'nocache_hash' => '5448390459fce8400d4b08-14612879',
+  'nocache_hash' => '14364098325a002de3381919-45437394',
   'version' => 'Smarty-3.1.19',
-  'unifunc' => 'content_59ff7a52d8fcb8_08627458',
+  'unifunc' => 'content_5a0036a1b94fd2_52148941',
   'has_nocache_code' => true,
   'cache_lifetime' => 31536000,
 ),true); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_59ff7a52d8fcb8_08627458')) {function content_59ff7a52d8fcb8_08627458($_smarty_tpl) {?>
+<?php if ($_valid && !is_callable('content_5a0036a1b94fd2_52148941')) {function content_5a0036a1b94fd2_52148941($_smarty_tpl) {?>
 	<!-- Block CMS module footer -->
 	<section class="footer-block col-xs-12 col-sm-2" id="block_various_links_footer">
 		<h4>Informacja</h4>
@@ -46,13 +46,13 @@ $_valid = $_smarty_tpl->decodeProperties(array (
 				</a>
 			</li>
 															<li class="item">
-						<a href="http://localhost/content/3-terms-and-conditions-of-use" title="Terms and conditions of use">
-							Terms and conditions of use
+						<a href="http://localhost/content/3-terms-and-conditions-of-use" title="Zasady używania">
+							Zasady używania
 						</a>
 					</li>
 																<li class="item">
-						<a href="http://localhost/content/4-about-us" title="About us">
-							About us
+						<a href="http://localhost/content/4-about-us" title="O nas">
+							O nas
 						</a>
 					</li>
 													<li>
