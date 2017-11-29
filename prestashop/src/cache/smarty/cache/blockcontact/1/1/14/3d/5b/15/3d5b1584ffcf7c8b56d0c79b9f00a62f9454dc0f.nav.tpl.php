@@ -12,19 +12,13 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   'nocache_hash' => '3528548505a002de387c153-32575414',
   'cache_lifetime' => 31536000,
   'version' => 'Smarty-3.1.19',
-  'unifunc' => 'content_5a1eb9716926c6_61365947',
-  'variables' => 
-  array (
-    'is_logged' => 0,
-    'link' => 0,
-    'telnumber' => 0,
-  ),
+  'unifunc' => 'content_5a1ebed06a2e46_85663146',
   'has_nocache_code' => false,
 ),true); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_5a1eb9716926c6_61365947')) {function content_5a1eb9716926c6_61365947($_smarty_tpl) {?><div id="contact-link" >
+<?php if ($_valid && !is_callable('content_5a1ebed06a2e46_85663146')) {function content_5a1ebed06a2e46_85663146($_smarty_tpl) {?><div id="contact-link" >
 	<a href="http://localhost/kontakt" title="Kontakt z nami">Kontakt z nami</a>
 </div>
 	<span class="shop-phone">
-		<i class="icon-phone"></i>Skontaktuj się z nami: <strong>0123-456-789</strong>
+		<i class="icon-phone"></i>Skontaktuj się z nami: <strong>123-345-345</strong>
 	</span>
 <?php }} ?>
