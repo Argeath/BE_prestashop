@@ -5,17 +5,28 @@ $_valid = $_smarty_tpl->decodeProperties(array (
     '1cf6151950192708b2e4c671fbc321fd1d6133d1' => 
     array (
       0 => '/var/www/html/themes/default-bootstrap/modules/blocksocial/blocksocial.tpl',
-      1 => 1504515462,
+      1 => 1511962731,
       2 => 'file',
     ),
   ),
   'nocache_hash' => '11758414255a002de32d4168-99661886',
-  'version' => 'Smarty-3.1.19',
-  'unifunc' => 'content_5a0036a1b1ce20_36503641',
-  'has_nocache_code' => false,
   'cache_lifetime' => 31536000,
+  'version' => 'Smarty-3.1.19',
+  'unifunc' => 'content_5a1eb9706b2090_50374866',
+  'variables' => 
+  array (
+    'facebook_url' => 0,
+    'twitter_url' => 0,
+    'rss_url' => 0,
+    'youtube_url' => 0,
+    'google_plus_url' => 0,
+    'pinterest_url' => 0,
+    'vimeo_url' => 0,
+    'instagram_url' => 0,
+  ),
+  'has_nocache_code' => false,
 ),true); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_5a0036a1b1ce20_36503641')) {function content_5a0036a1b1ce20_36503641($_smarty_tpl) {?><section id="social_block" class="pull-right">
+<?php if ($_valid && !is_callable('content_5a1eb9706b2090_50374866')) {function content_5a1eb9706b2090_50374866($_smarty_tpl) {?><section id="social_block" class="pull-right">
 	<ul>
 					<li class="facebook">
 				<a class="_blank" href="http://www.facebook.com/prestashop">

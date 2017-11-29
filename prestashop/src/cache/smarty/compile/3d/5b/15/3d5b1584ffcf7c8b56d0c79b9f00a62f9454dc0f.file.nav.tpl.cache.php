@@ -1,4 +1,4 @@
-<?php /* Smarty version Smarty-3.1.19, created on 2017-11-06 10:39:47
+<?php /* Smarty version Smarty-3.1.19, created on 2017-11-29 14:43:13
          compiled from "/var/www/html/themes/default-bootstrap/modules/blockcontact/nav.tpl" */ ?>
 <?php /*%%SmartyHeaderCode:3528548505a002de387c153-32575414%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
@@ -7,7 +7,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
     '3d5b1584ffcf7c8b56d0c79b9f00a62f9454dc0f' => 
     array (
       0 => '/var/www/html/themes/default-bootstrap/modules/blockcontact/nav.tpl',
-      1 => 1504515462,
+      1 => 1511962731,
       2 => 'file',
     ),
   ),
@@ -15,6 +15,9 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   'function' => 
   array (
   ),
+  'cache_lifetime' => 31536000,
+  'version' => 'Smarty-3.1.19',
+  'unifunc' => 'content_5a002de38998c2_46454430',
   'variables' => 
   array (
     'is_logged' => 0,
@@ -22,8 +25,6 @@ $_valid = $_smarty_tpl->decodeProperties(array (
     'telnumber' => 0,
   ),
   'has_nocache_code' => false,
-  'version' => 'Smarty-3.1.19',
-  'unifunc' => 'content_5a002de38998c2_46454430',
 ),false); /*/%%SmartyHeaderCode%%*/?>
 <?php if ($_valid && !is_callable('content_5a002de38998c2_46454430')) {function content_5a002de38998c2_46454430($_smarty_tpl) {?>
 <div id="contact-link" <?php if (isset($_smarty_tpl->tpl_vars['is_logged']->value)&&$_smarty_tpl->tpl_vars['is_logged']->value) {?> class="is_logged"<?php }?>>

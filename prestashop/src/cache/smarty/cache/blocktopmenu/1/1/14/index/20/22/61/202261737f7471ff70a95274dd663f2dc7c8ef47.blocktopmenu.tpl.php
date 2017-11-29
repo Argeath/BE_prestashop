@@ -5,17 +5,23 @@ $_valid = $_smarty_tpl->decodeProperties(array (
     '202261737f7471ff70a95274dd663f2dc7c8ef47' => 
     array (
       0 => '/var/www/html/themes/default-bootstrap/modules/blocktopmenu/blocktopmenu.tpl',
-      1 => 1504515462,
+      1 => 1511962731,
       2 => 'file',
     ),
   ),
   'nocache_hash' => '1813812895a002de31ed611-52467120',
-  'version' => 'Smarty-3.1.19',
-  'unifunc' => 'content_5a00378f624007_61266519',
-  'has_nocache_code' => false,
   'cache_lifetime' => 31536000,
+  'version' => 'Smarty-3.1.19',
+  'unifunc' => 'content_5a1eb96fd62b03_26262519',
+  'variables' => 
+  array (
+    'MENU' => 0,
+    'MENU_SEARCH' => 0,
+    'link' => 0,
+  ),
+  'has_nocache_code' => false,
 ),true); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_5a00378f624007_61266519')) {function content_5a00378f624007_61266519($_smarty_tpl) {?>	<!-- Menu -->
+<?php if ($_valid && !is_callable('content_5a1eb96fd62b03_26262519')) {function content_5a1eb96fd62b03_26262519($_smarty_tpl) {?>	<!-- Menu -->
 	<div id="block_top_menu" class="sf-contener clearfix col-lg-12">
 		<div class="cat-title">Zakładki</div>
 		<ul class="sf-menu clearfix menu-content">

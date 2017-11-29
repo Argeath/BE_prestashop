@@ -5,17 +5,24 @@ $_valid = $_smarty_tpl->decodeProperties(array (
     '44a3ca6f70fb7cf18ad9ccaabb7c9b7695475dd2' => 
     array (
       0 => '/var/www/html/themes/default-bootstrap/modules/blockcontactinfos/blockcontactinfos.tpl',
-      1 => 1504515462,
+      1 => 1511962731,
       2 => 'file',
     ),
   ),
   'nocache_hash' => '18890083005a002de3565d24-14072731',
-  'version' => 'Smarty-3.1.19',
-  'unifunc' => 'content_5a0036a1c45890_08318387',
-  'has_nocache_code' => false,
   'cache_lifetime' => 31536000,
+  'version' => 'Smarty-3.1.19',
+  'unifunc' => 'content_5a1eb970cd55f9_33121864',
+  'variables' => 
+  array (
+    'blockcontactinfos_company' => 0,
+    'blockcontactinfos_address' => 0,
+    'blockcontactinfos_phone' => 0,
+    'blockcontactinfos_email' => 0,
+  ),
+  'has_nocache_code' => false,
 ),true); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_5a0036a1c45890_08318387')) {function content_5a0036a1c45890_08318387($_smarty_tpl) {?>
+<?php if ($_valid && !is_callable('content_5a1eb970cd55f9_33121864')) {function content_5a1eb970cd55f9_33121864($_smarty_tpl) {?>
 <!-- MODULE Block contact infos -->
 <section id="block_contact_infos" class="footer-block col-xs-12 col-sm-4">
 	<div>

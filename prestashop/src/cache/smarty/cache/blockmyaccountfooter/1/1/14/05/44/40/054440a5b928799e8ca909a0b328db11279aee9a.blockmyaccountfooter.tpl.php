@@ -5,17 +5,25 @@ $_valid = $_smarty_tpl->decodeProperties(array (
     '054440a5b928799e8ca909a0b328db11279aee9a' => 
     array (
       0 => '/var/www/html/themes/default-bootstrap/modules/blockmyaccountfooter/blockmyaccountfooter.tpl',
-      1 => 1504515462,
+      1 => 1511962731,
       2 => 'file',
     ),
   ),
   'nocache_hash' => '11486407855a002de34a6974-35928208',
-  'version' => 'Smarty-3.1.19',
-  'unifunc' => 'content_5a0036a1bf92f8_74529626',
-  'has_nocache_code' => false,
   'cache_lifetime' => 31536000,
+  'version' => 'Smarty-3.1.19',
+  'unifunc' => 'content_5a1eb970b99760_15933566',
+  'variables' => 
+  array (
+    'link' => 0,
+    'returnAllowed' => 0,
+    'voucherAllowed' => 0,
+    'HOOK_BLOCK_MY_ACCOUNT' => 0,
+    'is_logged' => 0,
+  ),
+  'has_nocache_code' => false,
 ),true); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_5a0036a1bf92f8_74529626')) {function content_5a0036a1bf92f8_74529626($_smarty_tpl) {?>
+<?php if ($_valid && !is_callable('content_5a1eb970b99760_15933566')) {function content_5a1eb970b99760_15933566($_smarty_tpl) {?>
 <!-- Block myaccount module -->
 <section class="footer-block col-xs-12 col-sm-4">
 	<h4><a href="http://localhost/moje-konto" title="Zarządzaj moim kontem klienta" rel="nofollow">Moje konto</a></h4>
