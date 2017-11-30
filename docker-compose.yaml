@@ -11,12 +11,14 @@ services:
       - psdb
     volumes:
       - ./prestashop/src:/var/www/html
+    restart: on-failure
 
   psdb:
     build: ./mysql
     environment:
       - MYSQL_ROOT_PASSWORD=test1234
       - MYSQL_DATABASE=prestashop
+    restart: on-failure
 
   phpmyadmin:
     image: phpmyadmin/phpmyadmin
@@ -28,4 +30,5 @@ services:
       - PMA_HOST=psdb
       - PMA_USER=root
       - PMA_PASSWORD=test1234
+    restart: on-failure
 

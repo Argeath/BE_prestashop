@@ -2532,7 +2532,7 @@
     <country iso_code="PL">
         <yes>Tak</yes>
         <no>Nie</no>
-        <payment_choice>Pay with your card or your PayPal account</payment_choice>
+        <payment_choice>Płatność kartą lub PayPal</payment_choice>
         <leader>ŚWIATOWY LIDER</leader>
         <online_payment>PŁATNOŚCI ONLINE</online_payment>
         <tagline>Łatwiejsze, szybsze i bezpieczniejsze płatności dla Twoich kupujących.</tagline>
@@ -2548,7 +2548,7 @@
 
         <your_country>Twój kraj</your_country>
         <change_country>Zmień</change_country>
-        <country_change_title>Select your country</country_change_title>
+        <country_change_title>Wybierz kraj</country_change_title>
 
         <customer_support><![CDATA[<span style="font-weight: bold">Potrzebujesz pomocy ?</span>]]> Zadzwoń do nas pod numer 801 386 686</customer_support>
         <customer_support_image>call</customer_support_image>
