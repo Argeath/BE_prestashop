@@ -35,20 +35,6 @@
 	</div>
 
 	<div class="col-sm-2 hidden-xs">
-		<div class="social-networks">
-			<a class="link-social link-twitter _blank" href="https://twitter.com/PrestaShop" title="Twitter">
-				<i class="icon-twitter"></i>
-			</a>
-			<a class="link-social link-facebook _blank" href="https://www.facebook.com/prestashop" title="Facebook">
-				<i class="icon-facebook"></i>
-			</a>
-			<a class="link-social link-github _blank" href="https://www.prestashop.com/github" title="Github">
-				<i class="icon-github"></i>
-			</a>
-			<a class="link-social link-google _blank" href="https://plus.google.com/+prestashop/" title="Google">
-				<i class="icon-google-plus"></i>
-			</a>
-		</div>
 	</div>
 	<div class="col-sm-5">
 		<div class="footer-contact">

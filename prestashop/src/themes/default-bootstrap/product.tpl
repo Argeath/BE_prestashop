@@ -227,18 +227,6 @@
 			<div id="oosHook"{if $product->quantity > 0} style="display: none;"{/if}>
 				{$HOOK_PRODUCT_OOS}
 			</div>
-			{if isset($HOOK_EXTRA_RIGHT) && $HOOK_EXTRA_RIGHT}{$HOOK_EXTRA_RIGHT}{/if}
-			{if !$content_only}
-				<!-- usefull links-->
-				<ul id="usefull_link_block" class="clearfix no-print">
-					{if $HOOK_EXTRA_LEFT}{$HOOK_EXTRA_LEFT}{/if}
-					<li class="print">
-						<a href="javascript:print();">
-							{l s='Print'}
-						</a>
-					</li>
-				</ul>
-			{/if}
 		</div>
 		<!-- end center infos-->
 		<!-- pb-right-column-->

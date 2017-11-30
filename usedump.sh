@@ -1,3 +1,3 @@
 #!/bin/bash
 
-docker exec -i business_psdb_1 mysql -uroot -ptest1234 < mysql/initdb/prestashop.sql
+docker exec -i $1 mysql -uroot -ptest1234 prestashop < mysql/initdb/prestashop.sql
