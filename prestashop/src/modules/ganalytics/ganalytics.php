@@ -368,8 +368,37 @@ class Ganalytics extends Module
 			$step = Tools::getValue('step');
 			if (empty($step))
 				$step = 0;
+
+			$stepName = '';
+
+            switch($step) {
+                case 0:
+                    $stepName = "Podsumowanie";
+                    break;
+                case 1:
+                    $stepName = "Zaloguj sie";
+                    break;
+                case 2:
+                    $stepName = "Adres";
+                    break;
+                case 3:
+                    $stepName = "Wysylka";
+                    break;
+                case 4:
+                    $stepName = "Platnosc";
+                    break;
+            }
+
 			$ga_scripts .= $this->addProductFromCheckout($products, $step);
+
+			if (isset($this->context->cookie->step_timing)) {
+			    $timing = time() - $this->context->cookie->step_timing;
+                $ga_scripts .= 'MBG.stepTiming(\''.$stepName.'\', \''.$timing.'\');';
+            }
+            $this->context->cookie->step_timing = time();
+
 			$ga_scripts .= 'MBG.addCheckout(\''.(int)$step.'\');';
+            $ga_scripts .= 'MBG.sendPageEvent(\'Realizacja zamowienia - '.$stepName.'\');';
 		}
 
 		if (version_compare(_PS_VERSION_, '1.5', '<'))
@@ -390,6 +419,16 @@ class Ganalytics extends Module
 				$ga_scripts .= $this->addProductImpression($products);
 			$ga_scripts .= $this->addProductClick($products);
 		}
+
+		if ($controller_name == 'payment') {
+            $ga_scripts .= 'MBG.sendPageEvent(\'Realizacja zamowienia - Platnosc\');';
+        }
+
+		if ($controller_name == 'orderconfirmation') {
+            $ga_scripts .= 'MBG.sendPageEvent(\'Realizacja zamowienia - Potwierdzenie zamowienia\');';
+        }
+
+		$ga_scripts .= 'MBG.pageLoadTiming(\''. $controller_name .'\');';
 
 		return $this->_runJs($ga_scripts);
 	}
@@ -612,8 +651,9 @@ class Ganalytics extends Module
 			return;
 
 		$js = '';
-		foreach ($products as $product)
-			$js .= 'MBG.add('.Tools::jsonEncode($product).');';
+		foreach ($products as $product) {
+            $js .= 'MBG.add(' . Tools::jsonEncode($product) . ');';
+        }
 
 		return $js;
 	}

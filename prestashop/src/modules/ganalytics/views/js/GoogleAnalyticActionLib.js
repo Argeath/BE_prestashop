@@ -43,16 +43,18 @@ var GoogleAnalyticEnhancedECommerce = {
 				delete Product.quantity;
 			}
 
+			if(Product.price) {
+                Product.price = Product.price.replace(',', '');
+            }
+
 			for (var productKey in Product) {
 				for (var i = 0; i < ProductFieldObject.length; i++) {
 					if (productKey.toLowerCase() == ProductFieldObject[i]) {
 						if (Product[productKey] != null) {
 							Products[productKey.toLowerCase()] = Product[productKey];
 						}
-
 					}
 				}
-
 			}
 		}
 
@@ -76,19 +78,36 @@ var GoogleAnalyticEnhancedECommerce = {
 	addProductDetailView: function(Product) {
 		this.add(Product);
 		ga('ec:setAction', 'detail');
-		ga('send', 'event', 'UX', 'detail', 'Product Detail View',{'nonInteraction': 1});
+		ga('send', 'event', 'UX', 'detail', 'Szczegoly produktu',{'nonInteraction': 1});
 	},
 
 	addToCart: function(Product) {
 		this.add(Product);
 		ga('ec:setAction', 'add');
-		ga('send', 'event', 'UX', 'click', 'Add to Cart'); // Send data using an event.
+		ga('send', 'event', 'UX', 'click', 'Dodaj do koszyka'); // Send data using an event.
 	},
 
 	removeFromCart: function(Product) {
 		this.add(Product);
 		ga('ec:setAction', 'remove');
-		ga('send', 'event', 'UX', 'click', 'Remove From cart'); // Send data using an event.
+		ga('send', 'event', 'UX', 'click', 'Usun z koszyka'); // Send data using an event.
+	},
+
+	pageLoadTiming: function(Page) {
+        if (window.performance) {
+            // Gets the number of milliseconds since page load
+            // (and rounds the result since the value must be an integer).
+            var timeSincePageLoad = Math.round(performance.now());
+
+            // Sends the timing hit to Google Analytics.
+            ga('send', 'timing', 'Page load', 'load', timeSincePageLoad, Page);
+        }
+    },
+
+	stepTiming: function(step, timing) {
+
+		// Sends the timing hit to Google Analytics.
+		ga('send', 'timing', 'Checkout step', 'user_actions', timing, step);
 	},
 
 	addProductImpression: function(Product) {
@@ -135,7 +154,10 @@ var GoogleAnalyticEnhancedECommerce = {
 				}
 			});
 		});
+	},
 
+	sendPageEvent: function(Page) {
+        ga('send', 'event', 'Page', 'load', Page);
 	},
 
 	addProductClickByHttpReferal: function(Product) {
