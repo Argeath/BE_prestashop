@@ -22,9 +22,7 @@
 *  @license    http://opensource.org/licenses/afl-3.0.php  Academic Free License (AFL 3.0)
 *  International Registered Trademark & Property of PrestaShop SA
 *}
-
 {capture name=path}{l s='Your shopping cart'}{/capture}
-
 <h1 id="cart_title" class="page-heading">{l s='Shopping-cart summary'}
 	{if !isset($empty) && !$PS_CATALOG_MODE}
 		<span class="heading-counter">{l s='Your shopping cart contains:'}
@@ -467,6 +465,8 @@
 		</label>
 	</p>
 	{/if}
+
+    {hook h='displaySearchRecommendedProducts' products=$products amount=5}
 
 	{* Define the style if it doesn't exist in the PrestaShop version*}
 	{* Will be deleted for 1.5 version and more *}

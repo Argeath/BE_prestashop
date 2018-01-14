@@ -479,6 +479,7 @@
 			</section>
 			<!--end  More info -->
 		{/if}
+		{hook h="displaySearchRecommendedProducts" products=$product amount=5}
 		{if isset($packItems) && $packItems|@count > 0}
 		<section id="blockpack">
 			<h3 class="page-product-heading">{l s='Pack content'}</h3>

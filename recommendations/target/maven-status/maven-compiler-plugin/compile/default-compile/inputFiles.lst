@@ -1,4 +1,11 @@
-/home/argeath/projects/business/recommendations/src/main/java/com/barkomkin/recommendations/CustomerRepository.java
+/home/argeath/projects/business/recommendations/src/main/java/com/barkomkin/recommendations/models/Customer.java
+/home/argeath/projects/business/recommendations/src/main/java/com/barkomkin/recommendations/models/ProductDetails.java
+/home/argeath/projects/business/recommendations/src/main/java/com/barkomkin/recommendations/models/Product.java
 /home/argeath/projects/business/recommendations/src/main/java/com/barkomkin/recommendations/Application.java
+/home/argeath/projects/business/recommendations/src/main/java/com/barkomkin/recommendations/models/ProductRepository.java
+/home/argeath/projects/business/recommendations/src/main/java/com/barkomkin/recommendations/models/Rating.java
 /home/argeath/projects/business/recommendations/src/main/java/com/barkomkin/recommendations/AppController.java
-/home/argeath/projects/business/recommendations/src/main/java/com/barkomkin/recommendations/Customer.java
+/home/argeath/projects/business/recommendations/src/main/java/com/barkomkin/recommendations/RandomDataGenerator.java
+/home/argeath/projects/business/recommendations/src/main/java/com/barkomkin/recommendations/models/RatingRepository.java
+/home/argeath/projects/business/recommendations/src/main/java/com/barkomkin/recommendations/models/CustomerRepository.java
+/home/argeath/projects/business/recommendations/src/main/java/com/barkomkin/recommendations/models/ProductDetailsRepository.java

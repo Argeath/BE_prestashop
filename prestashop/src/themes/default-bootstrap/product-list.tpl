@@ -119,11 +119,9 @@
 						</a>
 					</h5>
 					{capture name='displayProductListReviews'}{hook h='displayProductListReviews' product=$product}{/capture}
-					{if $smarty.capture.displayProductListReviews}
-						<div class="hook-reviews">
-						{hook h='displayProductListReviews' product=$product}
-						</div>
-					{/if}
+					<div class="hook-reviews">
+					{hook h='displayProductListReviews' product=$product}
+					</div>
 					<p class="product-desc" itemprop="description">
 						{$product.description_short|strip_tags:'UTF-8'|truncate:360:'...'}
 					</p>
@@ -215,6 +213,9 @@
 		</li>
 	{/foreach}
 	</ul>
+	{if $page_name !='index'}
+		{hook h='displaySearchRecommendedProducts' products=$products amount=3}
+	{/if}
 {addJsDefL name=min_item}{l s='Please select at least one product' js=1}{/addJsDefL}
 {addJsDefL name=max_item}{l s='You cannot add more than %d product(s) to the product comparison' sprintf=$comparator_max_item js=1}{/addJsDefL}
 {addJsDef comparator_max_item=$comparator_max_item}

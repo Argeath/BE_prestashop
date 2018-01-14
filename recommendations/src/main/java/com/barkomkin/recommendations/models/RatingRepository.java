@@ -1,4 +1,4 @@
-package com.barkomkin.recommendations;
+package com.barkomkin.recommendations.models;
 
 import org.springframework.data.repository.CrudRepository;
 

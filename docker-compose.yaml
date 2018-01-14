@@ -7,6 +7,7 @@ services:
       - 80:80
     links:
       - psdb:psdb
+      - recommendations:recommendations
     depends_on:
       - psdb
     volumes:
@@ -15,6 +16,8 @@ services:
 
   psdb:
     build: ./mysql
+    ports:
+      - 3306:3306
     environment:
       - MYSQL_ROOT_PASSWORD=test1234
       - MYSQL_DATABASE=prestashop
@@ -32,3 +35,12 @@ services:
       - PMA_PASSWORD=test1234
     restart: on-failure
 
+  recommendations:
+    image: barkomkin-recommendations
+    links:
+      - psdb:psdb
+    depends_on:
+      - psdb
+    ports:
+      - 82:8080
+    restart: on-failure

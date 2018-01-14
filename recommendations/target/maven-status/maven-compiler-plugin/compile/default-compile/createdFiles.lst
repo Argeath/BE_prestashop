@@ -1,4 +1,11 @@
-com/barkomkin/recommendations/Customer.class
-com/barkomkin/recommendations/Application.class
+com/barkomkin/recommendations/models/CustomerRepository.class
+com/barkomkin/recommendations/RandomDataGenerator.class
 com/barkomkin/recommendations/AppController.class
-com/barkomkin/recommendations/CustomerRepository.class
+com/barkomkin/recommendations/models/ProductDetails.class
+com/barkomkin/recommendations/models/ProductRepository.class
+com/barkomkin/recommendations/models/ProductDetailsRepository.class
+com/barkomkin/recommendations/models/Rating.class
+com/barkomkin/recommendations/Application.class
+com/barkomkin/recommendations/models/RatingRepository.class
+com/barkomkin/recommendations/models/Product.class
+com/barkomkin/recommendations/models/Customer.class
